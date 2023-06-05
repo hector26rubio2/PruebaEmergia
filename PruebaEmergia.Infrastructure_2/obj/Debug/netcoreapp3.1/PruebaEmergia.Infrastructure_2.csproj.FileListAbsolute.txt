@@ -1,0 +1,10 @@
+C:\Users\hecto\OneDrive\Documentos\GitHub\PruebaEmergia\PruebaEmergia.Infrastructure_2\bin\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure_2.deps.json
+C:\Users\hecto\OneDrive\Documentos\GitHub\PruebaEmergia\PruebaEmergia.Infrastructure_2\bin\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure_2.dll
+C:\Users\hecto\OneDrive\Documentos\GitHub\PruebaEmergia\PruebaEmergia.Infrastructure_2\bin\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure_2.pdb
+C:\Users\hecto\OneDrive\Documentos\GitHub\PruebaEmergia\PruebaEmergia.Infrastructure_2\obj\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure_2.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Documentos\GitHub\PruebaEmergia\PruebaEmergia.Infrastructure_2\obj\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Documentos\GitHub\PruebaEmergia\PruebaEmergia.Infrastructure_2\obj\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure_2.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Documentos\GitHub\PruebaEmergia\PruebaEmergia.Infrastructure_2\obj\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure_2.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Documentos\GitHub\PruebaEmergia\PruebaEmergia.Infrastructure_2\obj\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure_2.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Documentos\GitHub\PruebaEmergia\PruebaEmergia.Infrastructure_2\obj\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure_2.dll
+C:\Users\hecto\OneDrive\Documentos\GitHub\PruebaEmergia\PruebaEmergia.Infrastructure_2\obj\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure_2.pdb
